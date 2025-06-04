@@ -1,0 +1,1 @@
+heaviside(n::integer)::real = n >= 0 ? 1 : 0

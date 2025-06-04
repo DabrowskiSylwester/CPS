@@ -1,0 +1,1 @@
+kronecker(n::Integer)::Real = n==0 ? 1 : 0
